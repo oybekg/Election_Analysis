@@ -1,7 +1,7 @@
 # Election_Analysis
 
-## Project Overview
-A Colorado Board of Elections employee has give you the following tasks to complete the election audit of a recent local congressional election. 
+## Project Overiew
+A Colorado Board of Elections employee has give you the following tasts to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -10,24 +10,21 @@ A Colorado Board of Elections employee has give you the following tasks to compl
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-    - Data Source: election_results.csv
-    - Software: Python 3.6.2, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.8.5, Visual Studioe Code, 1.47.3
 
 ## Summary
 The analysis of the election show that:
-
-    There were “x” votes cast in the election.
-    The candidates were:
-        -Candidate 1
-        -Candidate 2
-        -Candidate 3
-    The candidate results were:
-        -Candidate 1 received “x%” of the vote and “y” number of votes.
-        -Candidate 2 received “x%” of the vote and “y” number of votes.
-        -Candidate 3 received “x%” of the vote and “y” number of votes.
-    The winner of the election was:
-        -Candidate (1, 2, 3), who received “x%” of the vote and “y” number of votes.
-
-## Challenge Overview
-
-## Challenge Summary
+- There were 369,711 votes cast in the election.
+- The candidates were:
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
+- The candidate results were:
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  
+ ## Challenge Overview
+ 
+ ## Challenge Summary
